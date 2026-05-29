@@ -41,3 +41,7 @@ The application searches the web for relevant information, analyzes findings usi
 
 ```bash
 streamlit run app.py
+
+## Demo
+
+![AI Research Agent](screenshots/research-agent-demo.png)
